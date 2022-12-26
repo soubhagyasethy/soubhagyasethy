@@ -4,7 +4,7 @@
   <li>🧠 Self taught developer.</li>
   <li>👨‍💻 Web dev enthusiast.</li>
   <li>🌐 Learning Front-end technologies.</li>
-  <li><a href="ssethy017@gmail.com">📬 reachout.ssethy017@gmail.com</a></li>
+  <li>📬 Reach out <a href="ssethy017@gmail.com">ssethy017@gmail.com</a></li>
   <li><a href="/">📁 My Portfolio.</a></li>
   <li><a href="/">✍️ My Blogs.</a></li>
 </ul>
