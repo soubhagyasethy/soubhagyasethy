@@ -10,7 +10,7 @@
 </ul>
 <hr>
 <h2>🚀 Languages and Tools</h2>
-<p>VS Code, HTML, CSS, JavaScript, ReactJs</p>
+<p>HTML, CSS, JavaScript, ReactJs, VS Code, Netlify</p>
 
 
 
