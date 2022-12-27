@@ -1,5 +1,5 @@
 <h1>Hello World👋, I'm Soubhagya</h1>
-<h3>I'm a Front-end developer👨‍💻 aspiring to become a Fullstack web developer, who loves to build awesome projects. Leaning new skills exictes me the most.💯</h3>
+<h3>I'm a front-end developer👨‍💻 aspiring to become a Fullstack web developer, who loves to build awesome projects. Leaning new skills exictes me the most.💯</h3>
 <ul>
   <li>🧠 Self taught developer.</li>
   <li>👨‍💻 Web dev enthusiast.</li>
