@@ -1,6 +1,7 @@
 # Hello World👋, I'm Soubhagya
 
-<h3>I'm a Front-end developer👨‍💻 aspiring to become a Fullstack web developer. I build responsive and user-friendly web apps. Learning new skills excites me the most.💯</h3>
+### I'm a Front-end developer👨‍💻 aspiring to become a Fullstack web developer. I build responsive and user-friendly web apps. I enjoy turning complex problems into simple, beautiful and intuitive interfaces. Learning new skills excites me the most.💯
+
 <ul>
   <li>🧠 Self taught developer.</li>
   <li>👨‍💻 Web dev enthusiast.</li>
