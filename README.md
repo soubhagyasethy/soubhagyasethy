@@ -1,6 +1,6 @@
-# Hello World👋, I'm Soubhagya
+## Hello World👋, I'm Soubhagya
 
-### I'm a Front-end developer👨‍💻 aspiring to become a Fullstack web developer. I build responsive and user-friendly web apps. I enjoy turning complex problems into simple, beautiful and intuitive interfaces. Learning new skills excites me the most.💯
+#### I'm a Front-end developer👨‍💻 aspiring to become a Fullstack web developer. I build responsive and user-friendly web apps. I enjoy turning complex problems into simple, beautiful and intuitive interfaces. Learning new skills excites me the most.💯
 
 <ul>
   <li>🧠 Self taught developer.</li>
@@ -13,7 +13,7 @@
 
 <hr>
 
-## 🚀 Skills
+### 🚀 Skills
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-## 📬 I love to connect with new people:
+### 📬 I love to connect with new people:
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/soubhagya-sethy-3b5404182"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
