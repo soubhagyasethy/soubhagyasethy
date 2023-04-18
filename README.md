@@ -7,7 +7,7 @@
   <li>👨‍💻 Web dev enthusiast.</li>
   <li>🌐 Learning Front-end technologies.</li>
   <li>📬 Reach out <a href="mailto:ssethy017@gmail.com">ssethy017@gmail.com</a></li>
-  <li><a href="https://ssethy-portfolio.netlify.app/" target="_blank">📁 My Portfolio.</a></li>
+  <li><a href="https://soubhagyasethy.netlify.app/" target="_blank">📁 My Portfolio.</a></li>
   <li><a href="https://soubhagyasethy.hashnode.dev/" target="_blank">✍️ My Blogs.</a></li>
 </ul>
 
